@@ -1,6 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 
+
 Body {
 	
 	background-image: url("images/watercolor.png"); 
@@ -9,7 +10,7 @@ Body {
 }
 #bundle {
 	width: 915px;
-	margin:0 auto
+	margin:0 auto;
 }
 header {
 	width: 100%;
@@ -25,9 +26,9 @@ h1{
     color: darkred;
 }
 h2,h3,h4,h5 {
+	align-content: center;
 	font-family: 'PT Serif', serif;
 	font-size: 20px;
 	font-style: normal;
-	text-align: left;
     color: blue;
 }
